@@ -14,7 +14,7 @@ Minimax involves two players:
 The two players take turns making decisions.
 
 ## 2. Understanding the Game Tree
-<img src="path/to/image.png" alt="Alt text" width="300" />   
+<img src="path/to/diagram.png" alt="Alt text" width="300" />   
 
 A game tree represents all the possible moves that players can make.
 
