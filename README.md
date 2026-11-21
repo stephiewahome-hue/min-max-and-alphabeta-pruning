@@ -14,7 +14,12 @@ Minimax involves two players:
 The two players take turns making decisions.
 
 ## 2. Understanding the Game Tree
-<img src="path/to/diagram.png" alt="Alt text" width="300" />   
+## Minimax Game Tree Diagram
+
+The diagram below illustrates how MAX and MIN
+select values using the Minimax algorithm.
+
+![Minimax Game Tree](diagram.png)
 
 A game tree represents all the possible moves that players can make.
 
